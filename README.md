@@ -26,3 +26,7 @@ rodar:
 1. `npm run build` para gerar uma versão estática do projeto 
 (que ficará na pasta `build`)
 
+## Contato
+<p>Feliphe Rodrigue Dias</p>
+<i><b>dias.rodrigues.feliphe@gmail.com</b></i>
+
